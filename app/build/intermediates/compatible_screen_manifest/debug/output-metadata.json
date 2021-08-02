@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.masai.a10129july_send_broadcast_within_the_app_with_security_considerations_you2",
+  "variantName": "debug",
+  "elements": []
+}
